@@ -26,7 +26,7 @@ The script provides a comprehensive summary of monitor health, including downtim
 
 ### Dependencies
 
-Install the required Python libraries using pip. Note the addition of `pandas` and `openpyxl` for CSV/XLSX support.
+Install the required Python libraries using pip. 
 ```
 pip install uptime-kuma-api fpdf2 PyYAML pytz pandas openpyxl
 ```
